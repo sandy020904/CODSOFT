@@ -1,6 +1,7 @@
 # CODSOFT
 These are the tasks assigned to me as part of internship program
 📂 Projects Included
+
 1️⃣ Credit Card Fraud Detection
 
 Goal: Build a model to detect fraudulent credit card transactions.
